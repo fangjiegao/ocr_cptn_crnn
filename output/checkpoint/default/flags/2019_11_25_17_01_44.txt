@@ -1,0 +1,17 @@
+gpu: False
+restore: False
+tag: default
+ckpt_dir: ./output/checkpoint/default
+log_dir: ./output/log/default
+result_dir: ./output/result/default
+chars_file: ./data/chars/chn.txt
+val_step: 2000
+log_step: 30
+train_dir: 
+val_dir: None
+test_dir: None
+cfg_name: raw
+infer_dir: ./data/demo
+infer_copy_failed: False
+infer_batch_size: 1
+flags_fir: ./output/checkpoint/default/flags
