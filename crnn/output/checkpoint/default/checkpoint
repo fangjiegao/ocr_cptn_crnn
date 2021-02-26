@@ -1,0 +1,2 @@
+model_checkpoint_path: "crnn_36000_val_0.957"
+all_model_checkpoint_paths: "crnn_36000_val_0.957"
