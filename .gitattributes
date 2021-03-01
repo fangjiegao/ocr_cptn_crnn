@@ -4,3 +4,5 @@ crnn/output filter=lfs diff=lfs merge=lfs -text
 /Users/sherry/fangjiegao_github/ocr_cptn_crnn/ctpn/ctpn/ctpn_50000.ckpt.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
 /Users/sherry/fangjiegao_github/ocr_cptn_crnn/crnn/output/checkpoint/default/crnn_36000_val_0.957.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
 /Users/sherry/fangjiegao_github/ocr_cptn_crnn/crnn/output/checkpoint/default/crnn_36000_val_0.957.meta filter=lfs diff=lfs merge=lfs -text
+crnn/output/checkpoint/default/crnn_36000_val_0.957.data-00000-of-00001 filter=lfs diff=lfs merge=lfs -text
+crnn/output/checkpoint/default/crnn_36000_val_0.957.meta filter=lfs diff=lfs merge=lfs -text
