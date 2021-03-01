@@ -1,3 +1,7 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:13c33103cfcb96f692cab6efcc4a3e1db6535675c778c6213985a7ee2a40c05f
-size 133
+### ocr_cptn_crnn
+illool@163.com
+wx:illool
+######识别效果：
+![avatar](./png/1.png)
+![avatar](./png/2.png)
+![avatar](./png/3.png)
